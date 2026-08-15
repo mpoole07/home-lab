@@ -1,4 +1,3 @@
-# home-lab
 # Home Lab Infrastructure
 
 A small home lab built from repurposed hardware. The primary server provides Minecraft hosting, network file storage, and media streaming through Jellyfin. The environment runs Ubuntu with CasaOS and Docker.
